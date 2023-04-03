@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Members:
+  Huynh Huong
+  GCS210828 - Vu Minh Chien
+  GCS210919
 <!--
 
 **Here are some ideas to get you started:**
